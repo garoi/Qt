@@ -1,4 +1,4 @@
 Qt
 ==
 
-Laboratoris de IDI, FIB
+Laboratori de QT assignatura de IDI
