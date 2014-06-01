@@ -2,7 +2,6 @@
 
 MyQLineEdit::MyQLineEdit(QWidget *parent):QLineEdit(parent) {}
 
-void MyQLineEdit::recibereturn()
-{
+void MyQLineEdit::recibereturn() {
   emit(setreturn(text()));
 }
