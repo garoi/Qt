@@ -1,5 +1,0 @@
-TEMPLATE = app
-DEPENDPATH+=.
-INCLUDEPATH+=.
-#Input
-SOURCES+=helloQT.cc
